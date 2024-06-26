@@ -1,0 +1,9 @@
+#Carpetas propias de visual
+.vscode
+__pycache__
+#Carpetas del entorno virtual
+Lib
+Scripts
+Include
+#Archivo propio del entorno virtual
+pyvenv.cfg
